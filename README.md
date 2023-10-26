@@ -15,28 +15,28 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 ---
 
 ## Level 1 - Intro
-- [ ] [Tutorial](https://tryhackme.com/room/tutorial)
-- [ ] [OpenVPN](https://tryhackme.com/room/openvpn)
-- [ ] [Welcome](https://tryhackme.com/jr/welcome)
-- [ ] [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
-- [ ] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
-- [ ] [Google Dorking](https://tryhackme.com/room/googledorking)
-- [ ] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
-- [ ] [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
-- [ ] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
-- [ ] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
-- [ ] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
-- [ ] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
+- [x] [Tutorial](https://tryhackme.com/room/tutorial)
+- [x] [OpenVPN](https://tryhackme.com/room/openvpn)
+- [x] [Welcome](https://tryhackme.com/jr/welcome)
+- [x] [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [x] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
+- [x] [Google Dorking](https://tryhackme.com/room/googledorking)
+- [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+- [x] [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+- [x] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
+- [x] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
+- [x] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
+- [x] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
 <!-- - [ ] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
 
 **Introductory CTFs to get your feet wet**
-- [ ] [OHsint](https://tryhackme.com/room/ohsint)
+- [x] [OHsint](https://tryhackme.com/room/ohsint)
 
 ## Level 2 - Tooling
-- [ ] [Tmux](https://tryhackme.com/room/rptmux)
-- [ ] [Nmap](https://tryhackme.com/room/furthernmap)
-- [ ] [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
-- [ ] [Hydra](https://tryhackme.com/room/hydra)
+- [x] [Tmux](https://tryhackme.com/room/rptmux)
+- [x] [Nmap](https://tryhackme.com/room/furthernmap)
+- [x] [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
+- [x] [Hydra](https://tryhackme.com/room/hydra)
 - [ ] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) 
 - [ ] [Shodan.io](https://tryhackme.com/room/shodan)
 - [ ] [RustScan](https://tryhackme.com/room/rustscan)
